@@ -10,7 +10,7 @@ function Navbar() {
     </div>
     {/* search bar */}
     <div className='navbar-search'>
-    search
+    searching
     </div>
     
     </div>
