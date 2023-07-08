@@ -1,0 +1,18 @@
+
+.navbar-container{
+    display: flex;
+    align-items: center;
+    gap: 2%;
+    background-color: white;
+    /* padding: top-bottom left-right; */
+    padding: 15px 10%;
+}
+.navbar-logo{
+    height: 30px;
+    width: fit-content;
+}
+.navbar-search{
+    display: flex;
+    
+
+}
